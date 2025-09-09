@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I’m Saule 👋  
 
-<!--
-**SauleRub/SauleRub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Data Analyst** with a background in **Law** and strong skills in:
+- Python | SQL | Pandas | NumPy | SciPy  
+- Tableau | Power BI | Data Visualization  
+- Git | Jupyter | PostgreSQL  
 
-Here are some ideas to get you started:
+🌍 I create dashboards & analytics projects on global workforce, compliance, and business insights.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Featured Projects:
+- [Global Labor Compliance Dashboard](https://github.com/SauleRub/global-labor-compliance-dashboard)  
+- [Employee Attrition Analysis](https://github.com/SauleRub/employee-attrition-performance-hackathon)  
+- [Budget Tracker](https://github.com/SauleRub/budget-tracker)  
+
+🚀 Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/saule-rubinshtein) | [Tableau Public](https://public.tableau.com/app/profile/saule.rubinshtein) | [Kaggle](https://www.kaggle.com)
